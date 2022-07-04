@@ -1,2 +1,6 @@
 Testando atualização  
+<<<<<<< HEAD
 b
+=======
+bola
+>>>>>>> segundo_branch
